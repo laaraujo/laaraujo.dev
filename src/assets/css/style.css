@@ -27,7 +27,7 @@ section {
     margin-bottom: 4rem
 }
 
-#dl-skills, #dl-socials {
+#dl-skills {
     columns: 250px 3;
 }
 
@@ -41,4 +41,13 @@ dd span {
 
 #btn-source {
     float: left;
+}
+
+.social-item {
+    margin:0 0 var(--global-line-height);
+}
+
+#socials-wrapper {
+    display: flex;
+    justify-content: space-evenly
 }
