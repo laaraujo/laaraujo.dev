@@ -28,7 +28,7 @@ section {
 }
 
 #dl-skills, #dl-socials {
-    columns: 10rem 3;
+    columns: 250px 3;
 }
 
 dd span {
