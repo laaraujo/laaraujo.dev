@@ -1,0 +1,16 @@
+<section id="skills">
+
+    <h2>skills</h2>
+
+    <div>
+        <small>... and tools I like to work with</small><br>
+        <dl id="dl-skills">
+            {% for skill in skills %}
+            <dd><span>{% if skill.favourite%} &#9829; {% else %} &#183; {% endif %}</span>{{ skill.name }}</dd>
+            {% endfor %}
+        </dl>
+    </div>
+
+    
+
+</section>

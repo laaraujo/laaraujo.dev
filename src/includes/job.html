@@ -1,0 +1,36 @@
+<div class="terminal-card">
+
+    <header>{{ job.years }}</header>
+
+    {% if job.multirole %}
+
+    <div>
+        <h3>{{ job.title }} at {{ job.company }}</h3>
+        <p>{{ job.description | escape }}</p>
+        {% for role in job.roles %}
+            <h4>{{ role.title }}</h4>
+            <ul>
+                {% for highlight in role.highlights %}
+                <li>{{highlight}}</li>
+                {% endfor %}
+            </ul>
+            {% if not loop.last %}
+            <hr>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+    {% else %}
+
+    <div>
+        <h3>{{ job.title }} at {{ job.company }}</h3>
+        <p>{{ job.description }}</p>
+        <ul>
+            {% for highlight in job.highlights %}
+            <li>{{highlight}}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    {% endif %}
+</div>

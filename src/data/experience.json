@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Senior Backend Engineer",
+        "years": "2022 - Present",
+        "company": "Vial",
+        "description": "Working as an IC spearheading DevOps and back-end projects, reporting directly to the VP of Engineering",
+        "highlights": [
+            "Setup most of our CI/CD pipelines and automations",
+            "Built our containerized GCP infrastructure from scratch with <b>Terraform</b>, Docker and Github Actions",
+            "Built numerous APIs and services for both internal and product needs using Node and Python mostly",
+            "Migrated legacy apps hosted in multiple PaaS to GCP",
+            "Mentored multiple engineers as the team grows in size",
+            "Interviewed 10s of candidates for different software engineering roles"
+        ],
+        "tools": []
+    },
+    {
+        "title": "Tech lead / Architect",
+        "years": "2021 - 2022",
+        "company": "Dom & Tom",
+        "description": "System design and development leadership for US Department of Energy projects, mostly complementing HPC ecosystem.",
+        "highlights": [
+            "API, SDK, CLI and Web client built with Django, Flask, Typer, VueJS, GraphQL and Dockerized AWS infrastructure",
+            "Managed an awesome engineering team consisting of a back-end, a full-stack and a DevOps engineer",
+            "Stakeholder meetings to translate requirements into features and functionalities in the project road map"
+        ],
+        "tools": []
+    },
+    {
+        
+        "multirole": true,
+        "title": "Software Engineer",
+        "years": "2018 - 2021",
+        "company": "Britecore",
+        "roles": [
+            {
+                "title": "SRE Engineer",
+                "description": "",
+                "highlights": [
+                    "Automated release process of client instances with AWS Step Functions, SAML, Consul and Salt",
+                    "Revamped monitoring of most relevant services with Datadog, CloudWatch and SNS",
+                    "Reduced cost of cloud infrastructure by approximately 15%"
+                ],
+                "tools": []
+            },
+            {
+                "title": "Full-stack engineer",
+                "description": "",
+                "highlights": [
+                    "Product and Integrations development with Flask, Django, VueJS and a variety of AWS services",
+                    "API Development and refactor for open-source transition"
+                ],
+                "tools": []
+            }
+        ]
+    },
+    {
+        "title": "Back-end Engineer",
+        "years": "2017 - 2018",
+        "company": "Amalgama",
+        "description": "Back-end development with Django for Argentina Government's Tax management mobile app",
+        "tools": []
+    },
+    {
+        "title": "Full-stack Engineer",
+        "years": "2016 - 2017",
+        "company": "NCR",
+        "description": "Full-stack development with Django, Flask and Angular for ATM web-based management applications. ATM UI Development with Angular",
+        "tools": []
+    },
+    {
+        "title": "Back-end engineer",
+        "years": "2014 - 2016",
+        "company": "BBVA Bank",
+        "description": "Core Banking Development mostly with COBOL, JCL, SQL, CICS, VSAM applications and Python scripting.",
+        "tools": []
+    },
+    {
+        "title": "Information Security Administrator",
+        "years": "2013 - 2014",
+        "company": "Cencosud",
+        "description": "Active Directory and Microsoft Exchange administration, log handling, report Automation, VPN configuration and other basic infosec-related tasks.",
+        "tools": []
+    }
+
+]

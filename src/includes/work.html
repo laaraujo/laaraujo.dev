@@ -1,0 +1,12 @@
+<section id="work">
+
+    <h2>work</h2>
+
+    <button class="btn btn-default">download the full .pdf version here</button><br><br>
+
+    <div class="terminal-timeline">
+        {% for job in experience %}
+            {% include 'job.html' %}
+        {% endfor %}
+    </div>
+</section>
