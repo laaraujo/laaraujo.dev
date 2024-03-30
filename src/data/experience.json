@@ -6,7 +6,7 @@
         "description": "Working as an IC spearheading DevOps and back-end projects, reporting directly to the VP of Engineering",
         "highlights": [
             "Setup most of our CI/CD pipelines and automations",
-            "Built our containerized GCP infrastructure from scratch with <b>Terraform</b>, Docker and Github Actions",
+            "Built our containerized GCP infrastructure from scratch with Terraform, Docker and Github Actions",
             "Built numerous APIs and services for both internal and product needs using Node and Python mostly",
             "Migrated legacy apps hosted in multiple PaaS to GCP",
             "Mentored multiple engineers as the team grows in size",
