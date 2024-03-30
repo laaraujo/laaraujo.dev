@@ -6,7 +6,7 @@
 
     <div>
         <h3>{{ job.title }} at {{ job.company }}</h3>
-        <p>{{ job.description | escape }}</p>
+        <p>{{ job.description | safe }}</p>
         {% for role in job.roles %}
             <h4>{{ role.title }}</h4>
             <ul>
@@ -24,7 +24,7 @@
 
     <div>
         <h3>{{ job.title }} at {{ job.company }}</h3>
-        <p>{{ job.description }}</p>
+        <p>{{ job.description | safe }}</p>
         <ul>
             {% for highlight in job.highlights %}
             <li>{{highlight}}</li>
