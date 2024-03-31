@@ -3,7 +3,7 @@
         "title": "Senior Backend Engineer",
         "years": "2022 - Present",
         "company": "Vial",
-        "description": "Working as an IC spearheading DevOps and back-end projects, reporting directly to the VP of Engineering",
+        "description": "Currently working as an IC spearheading DevOps and back-end projects, reporting directly to the VP of Engineering",
         "highlights": [
             "Setup most of our CI/CD pipelines and automations",
             "Built our containerized GCP infrastructure from scratch with Terraform, Docker and Github Actions",
