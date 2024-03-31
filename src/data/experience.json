@@ -7,7 +7,7 @@
         "highlights": [
             "Setup most of our CI/CD pipelines and automations",
             "Built our containerized GCP infrastructure from scratch with Terraform, Docker and Github Actions",
-            "Built numerous APIs and services for both internal and product needs using Node and Python mostly",
+            "Built numerous APIs and services for both internal and product needs using Node and Python",
             "Migrated legacy apps hosted in multiple PaaS to GCP",
             "Mentored multiple engineers as the team grows in size",
             "Interviewed 10s of candidates for different software engineering roles"
