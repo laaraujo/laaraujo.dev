@@ -4,11 +4,6 @@
 
 This repo servers both as my personal website and as a template for anyone wanting to deploy a static site in github actions with [11ty](https://www.11ty.dev/) (or any other static site generator for that matter)
 
-## Setup
-```sh
-npm install
-```
-
 ## Local development
 ```
 npm install
