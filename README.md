@@ -1,5 +1,4 @@
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/laaraujo/laaraujo.dev/gh-pages-deploy.yml?branch=main)
-![GitHub Actions Workflow Status](https://github.com/laaraujo/laaraujo.dev/actions/workflows/gh-pages-deploy.yml/badge.svg)
 
 
 # laaraujo.dev
