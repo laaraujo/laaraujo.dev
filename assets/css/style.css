@@ -51,8 +51,8 @@ dd span {
     display: flex;
     justify-content: space-evenly
 }
-
+/* 
 .about-hashtag {
     margin:0 0 var(--global-line-height);
     white-space: nowrap;
-}
+} */
