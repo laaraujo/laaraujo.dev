@@ -43,16 +43,12 @@ dd span {
     float: left;
 }
 
-.social-item {
-    margin:0 0 var(--global-line-height);
-}
-
-#socials-wrapper {
-    display: flex;
-    justify-content: space-evenly;
-}
-
 .about-hashtag {
     margin:0 0 var(--global-line-height);
     white-space: nowrap;
+}
+
+.social-link {
+    text-decoration: none;
+    color: var(--font-color);
 }
