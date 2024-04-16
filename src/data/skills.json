@@ -19,6 +19,7 @@
     {"name": "EC2" },
     {"name": "Cloud Watch" },
     {"name": "Cloud Formation" },
+    {"name": "Cloudflare" },
     {"name": "Datadog" },
     {"name": "Git" },
     {"name": "GitOps", "favourite": true },
