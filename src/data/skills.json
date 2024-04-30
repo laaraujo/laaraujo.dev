@@ -34,6 +34,8 @@
     {"name": "Redis" },
     {"name": "Serverless", "favourite": true },
     {"name": "DevExp" },
+    {"name": "Pulumi" },
+    {"name": "CDK" },
     {"name": "CI/CD Pipelines", "favourite": true },
     {"name": "GraphQL" },
     {"name": "Agile", "favourite": true },
