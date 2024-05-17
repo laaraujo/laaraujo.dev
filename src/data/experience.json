@@ -1,12 +1,12 @@
 [
     {
-        "title": "Senior Backend Engineer",
+        "title": "DevOps Engineer",
         "years": "2022 - Present",
         "company": "Vial",
         "description": "Currently spearheading DevOps and back-end projects, reporting directly to the VP of Engineering",
         "highlights": [
             "Built our containerized GCP infrastructure from scratch with Terraform and Docker and a variety of GCP products",
-            "Setup most if not all of our CI/CD pipelines and automations",
+            "Setup most all of our CI/CD pipelines and automations",
             "Built numerous APIs and services to meet both internal and product requirements",
             "Provided mentorship to multiple engineers to support team growth and development",
             "Conducted interviews for numerous candidates as the team expanded in size"
