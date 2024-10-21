@@ -26,31 +26,17 @@
     "tools": []
   },
   {
-    "multirole": true,
-    "title": "Software Engineer",
+    "title": "Senior Software Engineer",
     "years": "2018 - 2021",
     "company": "Britecore",
-    "roles": [
-      {
-        "title": "SRE Engineer",
-        "description": "",
-        "highlights": [
-          "Sped up nightly batch processing by almost 50% with AWS Lambda and Step Functions",
-          "Automated release process of client instances (multi-tenant architecture) with AWS Step Functions, SAML, Consul and Salt",
-          "Revamped monitoring of most relevant services with Datadog, CloudWatch and SNS",
-          "Reduced cost of cloud infrastructure by approximately 15%"
-        ],
-        "tools": []
-      },
-      {
-        "title": "Full-stack engineer",
-        "description": "",
-        "highlights": [
-          "Product and Integrations development with Flask, Django, VueJS and a variety of AWS services",
-          "API development and refactor for open-source transition"
-        ],
-        "tools": []
-      }
+    "description": "Fullstack and Site Reliability engineering",
+    "highlights": [
+      "Sped up nightly batch processing by almost 50% with AWS Lambda and Step Functions",
+      "Automated release process of client instances (multi-tenant architecture)",
+      "Revamped monitoring of most relevant services with Datadog, CloudWatch and SNS",
+      "Reduced cost of cloud infrastructure by 20% by rightsizing during off hours",
+      "Product and extensibility development with Flask, Django, VueJS and a variety of AWS services",
+      "Migration of legacy codebase (python 2.7 + Flask) to python 3.7 and Django"
     ]
   },
   {
