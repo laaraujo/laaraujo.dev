@@ -1,15 +1,29 @@
 [
   {
+    "title": "Senior Software Engineer",
+    "years": "2025 - Present",
+    "company": "Stratus",
+    "description": "Full-stack ownership of Field Orderz codebase, including back-end services, cloud infrastructure, CI/CD pipelines and website",
+    "highlights": [
+      "Migrated and re-designed all manually defined AWS infrastructure to IaC",
+      "Improved deployment frequency from weekly manual releases to continuous deployment",
+      "Built most of our CI/CD pipelines and automations (including Unity-related ones)",
+      "Set up automated QA pipeline, improving deployment confidence and reducing production bugs/issues by ~70%",
+      "Designed and delivered customer-facing features across the product"
+    ],
+    "tools": []
+  },
+  {
     "title": "DevOps Engineer",
-    "years": "2022 - Present",
+    "years": "2022 - 2025",
     "company": "Vial",
     "description": "Currently spearheading DevOps and back-end projects, reporting directly to the VP of Engineering",
     "highlights": [
-      "Built our containerized GCP infrastructure from scratch with Terraform and Docker and a variety of GCP products",
+      "Designed and implemented the company's production GCP infrastructure from the ground up",
       "Designed and set up all of our CI/CD pipelines and automations",
-      "Built numerous APIs and services to meet both internal and product requirements",
+      "Built numerous APIs and services to meet internal and product requirements",
       "Provided mentorship to multiple engineers to support team growth and development",
-      "Conducted interviews for numerous candidates as the team expanded in size"
+      "Conducted dozens of technical interviews and helped scale the engineering organization from 3 to 15 engineers through onboarding and mentorship"
     ],
     "tools": []
   },
@@ -17,11 +31,11 @@
     "title": "Tech lead / Architect",
     "years": "2021 - 2022",
     "company": "Dom & Tom",
-    "description": "System design and development leadership for US Department of Energy projects, mostly around a High Performance Computing ecosystem.",
+    "description": "System design and development leadership for US Department of Energy projects",
     "highlights": [
-      "Developed API, SDK, CLI and web solutions using Django, Flask, Typer, Vue, GraphQL and Dockerized AWS infrastructure for streamlined deployments and scalability",
-      "Lead and mentored an awesome engineering team comprising back-end, full-stack and DevOps engineers",
-      "Translation of business requirements into actionable tasks and project road-mapping"
+      "Lead and mentored a cross-functional team of back-end, front-end and DevOps engineers",
+      "Partnered with stakeholders to translate business requirements into actionable tasks and project road-mapping",
+      "Developed multiple internal APIs, SDKs, CLIs and web products"
     ],
     "tools": []
   },
@@ -33,10 +47,9 @@
     "highlights": [
       "Sped up nightly batch processing by almost 50% with AWS Lambda and Step Functions",
       "Automated release process of client instances (multi-tenant architecture)",
-      "Revamped monitoring of most relevant services with Datadog, CloudWatch and SNS",
       "Reduced cost of cloud infrastructure by 20% by rightsizing during off hours",
-      "Product and extensibility development with Flask, Django, VueJS and a variety of AWS services",
-      "Migration of legacy codebase (python 2.7 + Flask) to python 3.7 and Django"
+      "Migration of legacy codebase to a more modern stack (python 2.7 + Flask to python 3.7 + Django)",
+      "Designed and implemented monitoring and alerting for most key services, significantly improving observability and incident response"
     ]
   },
   {
