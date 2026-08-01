@@ -16,7 +16,7 @@ npm run build
 ```
 
 ## CNAME file
-[CNAME](./CNAME) file is needed only if you are using a custom domain with Github Pages. This is due to the fact that the Github Pages settings commits a CNAME file to the `gh-pages` branch for the selected domain, but it gets deleted after every commit if not present when pushing a new build.
+[CNAME](./CNAME) file is needed only if you are using a custom domain with Github Pages. This is due to the fact that Github Pages' settings commit a CNAME file to the `gh-pages` branch for the selected domain, but it gets deleted after every commit if not present when pushing a new build.
 
 ## License
 MIT License
